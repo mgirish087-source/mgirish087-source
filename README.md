@@ -161,6 +161,7 @@ Networking              ████████████████░░�
 Backend Development     ███████████████░░░░░
 AI / ML                 ██████████████░░░░░░
 
+
 Currently Learning & Building
  - AWS Cloud Architecture
  - Cloud Security
@@ -172,7 +173,7 @@ Currently Learning & Building
  - Backend Systems
  - AI-assisted Security
 
--------------------------------------------------------------------------------------------------------------
+
  🧰 Technologies I Work With
 
  ☁️ Cloud & AWS
@@ -200,12 +201,11 @@ Route Tables NAT VPC Peering ALB NLB
 Java Python JavaScript REST APIs
 Vert.x MongoDB Redis RDBMS DynamoDB
 
-------------------------------------------------------------------------------------------------------------------------
+
 
 🌐 Connect With Me
 <p align="left"> <a href="https://girishm.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://github.com/mgirish087-source"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:mgirish087@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
-------------------------------------------------------------------------------------------------------------------------
 
 ⚡ Engineering Philosophy
 
