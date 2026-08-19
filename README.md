@@ -168,6 +168,9 @@ https://github.com/
 **Email:**
 [mgirish087@gmail.com](mailto:mgirish087@gmail.com)
 
+**Linkdin:**
+https://www.linkedin.com/in/girish-m-b8385b27a/
+
 ---
 
 ## ⚡ Philosophy
