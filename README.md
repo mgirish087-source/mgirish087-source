@@ -1,25 +1,22 @@
 # Hi, I'm Girish M 👋
 
-### Cloud Engineer | AWS | Cloud Security | DevOps | Networking
+### Cloud Security Engineering | AWS | DevOps | Backend Development
 
-I'm a **Cloud Security Engineering Intern** with hands-on experience in cloud infrastructure, security fundamentals, Linux, networking, backend development, and automation.
+I'm a **Cloud Security Engineering Intern** with hands-on experience designing, deploying, and managing cloud infrastructure. I enjoy turning complex infrastructure and software problems into **scalable, secure, and reliable solutions**.
 
-My primary focus is **Cloud Engineering and AWS**, with supporting experience in **Cloud Security, DevOps, Networking, Backend Development, and AI-powered security solutions**.
-
-I enjoy building systems that are **secure, scalable, reliable, and automated**.
+I'm particularly interested in **Cloud Engineering, AWS, DevOps, Linux, Networking, Backend Development, and Cloud Security**.
 
 ---
 
 ## 🚀 About Me
 
-- ☁️ Focused on **AWS Cloud Engineering & Infrastructure**
-- 🔐 Interested in **Cloud Security & Network Security**
-- ⚙️ Hands-on experience with **Linux, Git, Docker, CI/CD & automation**
-- 🌐 Strong foundation in **Networking, TCP/IP, DNS, DHCP, VLANs & AWS VPC**
-- 💻 Backend development using **Java, Python, REST APIs, MongoDB & Redis**
-- 🛡️ Building **AI-powered network security applications**
-- 🌱 Currently strengthening my skills in **Cloud Architecture, DevOps & Infrastructure Security**
-- 💼 Open to **Cloud Engineer, Cloud Security, Cloud Support & DevOps opportunities**
+* ☁️ Focused on **Cloud Engineering & AWS**
+* 🔐 Interested in **Cloud Security and Network Security**
+* ⚙️ Experienced with **Linux, networking, DevOps, and automation**
+* 🐳 Comfortable working with **Docker, Git, GitHub, and CI/CD**
+* 💻 Backend experience with **Java, Python, REST APIs, MongoDB, and Redis**
+* 🤖 Exploring **AI-powered security applications**
+* 🌍 Open to **remote opportunities, internships, collaborations, and software projects**
 
 ---
 
@@ -27,110 +24,95 @@ I enjoy building systems that are **secure, scalable, reliable, and automated**.
 
 ### ☁️ Cloud & AWS
 
-`AWS` `EC2` `VPC` `S3` `RDS` `EBS` `EFS` `IAM`
-
-`Lambda` `API Gateway` `DynamoDB` `CloudFront` `ALB` `NLB`
-
-`Auto Scaling` `CloudFormation` `NAT Gateway` `VPC Peering`
+`AWS` `EC2` `VPC` `S3` `RDS` `EBS` `EFS` `IAM` `CloudFront`
+`Lambda` `API Gateway` `DynamoDB` `ALB` `NLB` `Auto Scaling`
+`CloudFormation` `VPC Peering` `NAT Gateway`
 
 ### ⚙️ DevOps & Automation
 
-`Git` `GitHub` `Docker` `Bash` `Linux` `CI/CD` `Cloud Automation`
+`Git` `GitHub` `Docker` `Bash` `CI/CD` `Linux` `Cloud Automation`
+
+### 🐧 Linux & Windows Server
+
+`Linux` `SSH` `DNS` `Samba` `LVM` `RAID` `Disk Quota`
+`Active Directory` `Group Policy` `Remote Desktop`
 
 ### 🌐 Networking
 
-`TCP/IP` `DNS` `DHCP` `VLAN` `VTP` `Subnetting`
-
-`Routing` `NAT` `Route Tables` `VPC Peering` `Load Balancing`
-
-### 🐧 Linux & Windows Administration
-
-`Linux` `SSH` `DNS` `Samba` `LVM` `RAID` `Disk Management`
-
-`Windows Server` `Active Directory` `Group Policy` `Remote Desktop`
+`TCP/IP` `DNS` `DHCP` `VLAN` `VTP` `Subnets`
+`Route Tables` `NAT` `VPC Peering` `ALB` `NLB`
 
 ### 💻 Programming & Backend
 
-`Python` `Java` `JavaScript` `REST APIs` `Vert.x`
-
-`Flask` `MongoDB` `Redis` `MySQL` `RDBMS` `DynamoDB`
+`Java` `Python` `JavaScript` `REST APIs`
+`Vert.x` `MongoDB` `Redis` `RDBMS` `DynamoDB`
 
 ---
 
 ## 💼 Experience
 
-### 🔐 Cloud Security Engineering Intern
+### Cloud Computing Intern
 
 **Cynux Era LLP — Bengaluru**
-
 `Mar 2026 – Jun 2026`
 
-- Gained hands-on experience with **cloud infrastructure, deployment, resource management, and security fundamentals**.
-- Worked on **industry-aligned tasks and real-world cloud projects**.
-- Applied **cloud security principles and infrastructure best practices**.
-- Developed practical understanding of **secure and scalable cloud environments**.
+* Worked with cloud infrastructure, deployment, and resource management.
+* Contributed to cloud solution implementation through hands-on projects.
+* Applied cloud best practices and security fundamentals.
+* Worked with scalable cloud environments and infrastructure concepts.
 
-### ☕ Java Backend Intern
+### Java Backend Intern
 
 **Kristu Jayanti Software Development Center — Bengaluru**
-
 `Jun 2025 – Jul 2025`
 
-- Developed **RESTful APIs** using Java and Vert.x.
-- Designed and integrated **MongoDB database schemas**.
-- Implemented **Redis caching** for backend applications.
-- Worked with academic curriculum data and backend services.
+* Developed RESTful APIs using **Java and Vert.x**.
+* Designed and integrated **MongoDB schemas**.
+* Implemented **Redis caching** for backend applications.
+* Worked with academic curriculum data and backend services.
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 🖨️ KJC PrintZone
 
-**AWS Serverless Order Management System**
+**AWS Serverless System**
 
-A cloud-native order-management system designed using AWS serverless services.
+A serverless order-management system designed around AWS cloud-native services.
 
-**Tech Stack:**  
+**Built with:**
+
 `AWS Lambda` `API Gateway` `DynamoDB` `S3` `SES` `Python`
 
-**Key Highlights:**
+**Highlights:**
 
-- Designed a **serverless AWS architecture**.
-- Implemented scalable order-management functionality.
-- Used **DynamoDB** for application data.
-- Used **Amazon S3** for object storage.
-- Integrated **Amazon SES** for automated notifications.
-- Applied principles of **secure and scalable cloud architecture**.
+* Designed a serverless AWS architecture.
+* Implemented scalable order management.
+* Used DynamoDB for application data.
+* Used S3 for storage.
+* Integrated AWS SES for automated notifications.
+* Followed AWS Well-Architected principles.
 
 ---
 
 ### 🛡️ Net Sentinel AI
 
-**AI-Powered Network Intrusion Detection System**
+**AI-Powered Network Security Dashboard**
 
-A real-time network security platform that analyzes network traffic and uses machine learning to identify potentially malicious activity.
+A real-time Network Intrusion Detection System designed to monitor network traffic, extract packet features, and classify malicious activity.
 
-**Tech Stack:**  
-`React` `Tailwind CSS` `Python` `Flask` `Scikit-Learn` `MongoDB`
+**Built with:**
 
-**Key Features:**
+`React 19` `Tailwind CSS` `Python` `Flask` `Scikit-Learn` `MongoDB`
 
-- Real-time network traffic monitoring
-- Packet feature extraction
-- Machine-learning-based threat classification
-- Detection of **DDoS and Botnet activity**
-- Security monitoring dashboard
-- Backend REST APIs
-- MongoDB-based security logging
+**Capabilities:**
 
----
-
-## 📜 Certifications
-
-- 🏆 **Oracle Cloud Infrastructure 2025 DevOps Professional**
-- ☁️ **Oracle Cloud Infrastructure 2025 Foundations**
-- 🗄️ **Oracle Database@AWS Architect**
+* Network traffic monitoring
+* Packet feature extraction
+* Machine-learning-based threat classification
+* Detection of attacks such as **DDoS and Botnet activity**
+* Real-time security dashboard
 
 ---
 
@@ -140,9 +122,11 @@ A real-time network security platform that analyzes network traffic and uses mac
 
 **Kristu Jayanti College, Autonomous — Bengaluru**
 
-`2024 – 2026`
+`2024 – Present`
 
-### B.Sc. Computer Science, Mathematics & Statistics
+### B.Sc. CSMM
+
+**Computer Science, Mathematics**
 
 **Kristu Jayanti College, Autonomous — Bengaluru**
 
@@ -150,67 +134,56 @@ A real-time network security platform that analyzes network traffic and uses mac
 
 ---
 
-## 🎯 Current Focus
+## 📜 Certifications
+
+* 🏆 **Oracle Cloud Infrastructure 2025 DevOps Professional**
+* ☁️ **Oracle Cloud Infrastructure 2025 Foundations**
+* 🗄️ **Oracle Database@AWS Architect**
+
+---
+
+## 📊 What I'm Currently Working On
 
 ```text
 Cloud Engineering       ████████████████████
 AWS                     ████████████████████
 Cloud Security          ██████████████████░░
 DevOps                  █████████████████░░░
-Networking              ████████████████░░░░
-Backend Development     ███████████████░░░░░
+Backend Development     ████████████████░░░░
 AI / ML                 ██████████████░░░░░░
+```
 
+I'm continuously improving my understanding of **cloud architecture, infrastructure security, automation, backend systems, and AI-assisted security**.
 
-Currently Learning & Building
- - AWS Cloud Architecture
- - Cloud Security
- - Linux Administration
- - Networking & Network Security
- - DevOps & CI/CD
- - Docker & Containerization
- - Infrastructure Automation
- - Backend Systems
- - AI-assisted Security
+---
 
+## 🌐 Connect With Me
 
- 🧰 Technologies I Work With
+**Portfolio:**
+https://girishm.vercel.app/
 
- ☁️ Cloud & AWS
+**GitHub:**
+https://github.com/
 
-AWS EC2 VPC S3 RDS EBS EFS IAM CloudFront
-Lambda API Gateway DynamoDB ALB NLB Auto Scaling
-CloudFormation VPC Peering NAT Gateway
+**Email:**
+[mgirish087@gmail.com](mailto:mgirish087@gmail.com)
 
- ⚙️ DevOps & Automation
+---
 
-Git GitHub Docker Bash CI/CD Linux Cloud Automation
+## ⚡ Philosophy
 
- 🐧 Linux & Windows Server
+> Build systems that are scalable.
+> Secure systems that matter.
+> Automate what should not be manual.
 
-Linux SSH DNS Samba LVM RAID Disk Quota
-Active Directory Group Policy Remote Desktop
+---
 
- 🌐 Networking
+### 🧰 Technologies I Work With
 
-TCP/IP DNS DHCP VLAN VTP Subnets
-Route Tables NAT VPC Peering ALB NLB
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,java,python,js,react,flask,mongodb,redis,mysql" />
+</p>
 
- 💻 Programming & Backend
-
-Java Python JavaScript REST APIs
-Vert.x MongoDB Redis RDBMS DynamoDB
-
-
-
-🌐 Connect With Me
-<p align="left"> <a href="https://girishm.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://github.com/mgirish087-source"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:mgirish087@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
-
-
-⚡ Engineering Philosophy
-
-Build scalable systems.
-Secure what matters.
-Automate what can be automated.
-
-<p align="center"> <b>Cloud • Security • DevOps • Networking • Backend • AI</b> </p> ```
+<p align="center">
+  <b>Cloud • Security • DevOps • Backend • AI</b>
+</p>
