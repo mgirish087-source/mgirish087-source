@@ -122,7 +122,7 @@ A real-time Network Intrusion Detection System designed to monitor network traff
 
 **Kristu Jayanti College, Autonomous — Bengaluru**
 
-`2024 – Present`
+`2024 – 2026`
 
 ### B.Sc. CSMM
 
@@ -159,17 +159,25 @@ I'm continuously improving my understanding of **cloud architecture, infrastruct
 
 ## 🌐 Connect With Me
 
-**Portfolio:**
-https://girishm.vercel.app/
+<p align="left">
 
-**GitHub:**
-https://github.com/
+<a href="https://girishm.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-**Email:**
-[mgirish087@gmail.com](mailto:mgirish087@gmail.com)
+<a href="https://github.com/mgirish087-source" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-**Linkdin:**
-https://www.linkedin.com/in/girish-m-b8385b27a/
+<a href="https://www.linkedin.com/in/girish-m-b8385b27a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mgirish087@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
 
 ---
 
